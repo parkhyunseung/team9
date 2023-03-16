@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>인천공항 팀나인택시</title>
+  <script>
+    function redirectToHomepage() {
+      window.location.href = "https://www.example.com"; // Replace this with the URL of your homepage
+    }
+  </script>
+</head>
+<body>
+  <img src="images/2302251.jpg" alt="클릭하면 홈페이지로 이동" onclick="redirectToHomepage()" style="cursor: pointer;">
+</body>
+</html>
